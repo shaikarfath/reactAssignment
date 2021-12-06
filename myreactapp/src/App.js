@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Cards from "./Cards"
-import {Jumbotron} from 'reactstrap';
+import { Container, Jumbotron } from 'react-bootstrap';
 import './App.css';
 
 class App extends Component{
