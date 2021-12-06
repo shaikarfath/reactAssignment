@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import TextForCards from './TextForCards';
+import TextForCards from './Textcards';
 
 test('Text for card', () => {
   render(<TextForCards />);

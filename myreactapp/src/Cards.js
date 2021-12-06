@@ -1,6 +1,6 @@
 import React from "react";
 import{ Button, Card, CardBody, CardText, CardTitle, Fade} from 'reactstrap';
-import TextForCards from "./TextForCards";
+import TextForCards from "./Textcards";
 
 const Cards = (props) =>{
     return(
